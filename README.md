@@ -6,3 +6,8 @@ A python script made for searching for youtube videos then downloading, the app 
 3 - pip install httpx         
 4 - pip install yt-dlp                                                                                                                                                                                                          
 5 - python/python3 main.py
+
+## Youtube API
+Go to google cloud    
+search for the youtube data api v3      
+add it to your free api key
